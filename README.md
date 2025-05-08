@@ -1,0 +1,2 @@
+# Investigating_the_Impact_of_Social_Engineering_Attacks_and_Developing_Defense_Mechanisms
+This is my bachelor degree's capstone project. In this project we have done a good level of research about social engineering attacks. The aim of this project is to develop functional defense mechanisms that can help industries and organizations protect their systems from advanced attacks and protect their significant assets.
